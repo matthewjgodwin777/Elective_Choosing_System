@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Software Testing",
+    "code": "UCS1521",
+    "elective": "PE1",
+    "department": "CSE"
+  },
+  {
+    "name": "Logic Programming",
+    "code": "UCS1524",
+    "elective": "PE1",
+    "department": "CSE"
+  },
+
+  {
+    "name": "Foundations of Data Science",
+    "code": "UCS1625",
+    "elective": "PE2",
+    "department": "CSE"
+  },
+  {
+    "name": "Cloud Computing",
+    "code": "UCS1628",
+    "elective": "PE2",
+    "department": "CSE"
+  },
+  {
+    "name": "Image Processing",
+    "code": "UCS1623",
+    "elective": "PE2",
+    "department": "CSE"
+  },
+  {
+    "name": "Internet Of Things",
+    "code": "UCS1624",
+    "elective": "PE2",
+    "department": "CSE"
+  },
+
+  {
+    "name": "Intellectual Property Rights",
+    "code": "UME1041",
+    "elective": "OE1",
+    "department": "MECH"
+  },
+  {
+    "name": "Design Thinking",
+    "code": "UME10413",
+    "elective": "OE1",
+    "department": "MECH"
+  },
+  {
+    "name": "Renewable Energy Systems",
+    "code": "UEE1043",
+    "elective": "OE1",
+    "department": "EEE"
+  },
+  {
+    "name": "User Interface Design",
+    "code": "UIT1042",
+    "elective": "OE1",
+    "department": "IT"
+  },
+  {
+    "name": "Deep Learning",
+    "code": "UCS1723",
+    "elective": "PE3",
+    "department": "CSE"
+  },
+  {
+    "name": "GPU Computing",
+    "code": "UCS1727",
+    "elective": "PE4",
+    "department": "CSE"
+  },
+  {
+    "name": "Enzyme Engineering",
+    "code": "CH8001",
+    "elective": "PE1",
+    "department": "CHEM"
+  },
+  {
+    "name": "Petroleum Refining and Petrochemicals",
+    "code": "CH8075",
+    "elective": "PE1",
+    "department": "CHEM"
+  },
+  {
+    "name": "Food Technology",
+    "code": "CH8002",
+    "elective": "PE1",
+    "department": "CHEM"
+  },
+  {
+    "name": "Disaster Management",
+    "code": "GE8071",
+    "elective": "PE1",
+    "department": "CHEM"
+  }
+]

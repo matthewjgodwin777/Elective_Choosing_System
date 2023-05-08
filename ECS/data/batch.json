@@ -1,0 +1,6 @@
+[
+  { "department": "CSE", "start": 2019, "end": 2023 },
+  { "department": "CHEM", "start": 2019, "end": 2023 },
+  { "department": "CHEM", "start": 2020, "end": 2024 },
+  { "department": "IT", "start": 2019, "end": 2023 }
+]

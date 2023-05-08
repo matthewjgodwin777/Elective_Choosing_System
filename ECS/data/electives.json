@@ -1,0 +1,8 @@
+[
+    {"name":"Open Elective - I", "short":"OE1"},
+    {"name":"Open Elective - II", "short":"OE2"},
+    {"name":"Professional Elective - I", "short":"PE1"},
+    {"name":"Professional Elective - II", "short":"PE2"},
+    {"name":"Professional Elective - III", "short":"PE3"},
+    {"name":"Professional Elective - IV", "short":"PE4"}
+]

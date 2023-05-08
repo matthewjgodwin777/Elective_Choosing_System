@@ -1,0 +1,10 @@
+[
+  { "name": "Electrical and Electronics Engineering", "short": "EEE" },
+  { "name": "Electronics and Communication Engineering", "short": "ECE" },
+  { "name": "Computer Science and Engineering", "short": "CSE" },
+  { "name": "Information Technology", "short": "IT" },
+  { "name": "Mechanical Engineering", "short": "MECH" },
+  { "name": "Chemical Engineering", "short": "CHEM" },
+  { "name": "Biomedical Engineering", "short": "BME" },
+  { "name": "Civil Engineering", "short": "CIVIL" }
+]
